@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nomoretea
 - 👀 I’m interested in Automating things🤖
 - 🌱 I’m currently learning: Python and C# 
-- 📫 How to reach me: variable does not exist...
+- 📫 variable does not exist...
 
 <!---
 nomoretea/nomoretea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
